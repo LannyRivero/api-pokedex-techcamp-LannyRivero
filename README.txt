@@ -13,7 +13,7 @@ Bienvenida a este reto para cumplirlo deberás seguir lo siguiente:
 -  El CSS está completo pero deben practicar y entender cómo se crearon las cards en este reto
 
 - la API que se usará es: pokeapi.co
-
+                                                                                                                                                                                                                                                                                                                                                                                        
 Deberás crear createPokemonCard: se encargará de Traer: 
 - el nombre del pokemon
 - el id
